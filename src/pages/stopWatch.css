@@ -1,0 +1,75 @@
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.timer > div {
+  width: 150px;
+  font-size: 100px;
+  font-weight: 400;
+}
+
+.split-timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.split-timer > div {
+  width: 50px;
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.time-split-table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.start {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  margin-right: 20px;
+  background-color: lightcoral;
+}
+
+.split {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  margin-right: 20px;
+  background-color: lightgreen;
+}
+
+.reset {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  margin-right: 20px;
+  background-color: lightblue;
+}
+
+.pause {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  margin-right: 20px;
+  background-color: lightsalmon;
+}
